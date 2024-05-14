@@ -13,7 +13,7 @@ const Features = () => {
             pra="You’ve got the ideas, we’ve got the tools"
           />
 
-          <div className="feature-box">
+          <div className="feature-box-main">
             <div className="row gy-4">
               {FeatureData.map((val, ind) => {
                 return (

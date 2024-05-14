@@ -93,6 +93,16 @@ const Header = () => {
                 <span class="fa fa-search form-control-feedback"></span>
                 <input type="text" class="form-control" placeholder="Search" />
               </div>
+              <div className="icon-box">
+                <div class="header_icon">
+                  <i class="bi bi-star"></i>
+                  <span>0</span>
+                </div>
+                <div class="header_icon">
+                  <i class="bi bi-bag"></i>
+                  <span>0</span>
+                </div>
+              </div>
             </form>
           </div>
         </div>

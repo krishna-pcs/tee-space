@@ -6,6 +6,8 @@ import SectionOne from "./Homepage2/Sections/SectionOne";
 import Imgbox from "./Homepage2/Sections/Imgbox";
 import ClickSection from "./Homepage2/Sections/ClickSection";
 import Features from "./Homepage2/Sections/Features";
+import Offer from "./Homepage2/Sections/Offer";
+import Trust from "./Homepage2/Sections/Trust";
 
 function Homepage2() {
   return (
@@ -16,6 +18,8 @@ function Homepage2() {
       <Imgbox />
       <ClickSection />
       <Features />
+      <Offer />
+      <Trust />
       <Footer />
     </>
   );
